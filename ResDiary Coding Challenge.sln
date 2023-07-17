@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResDiary Coding Challenge", "ResDiary Coding Challenge\ResDiary Coding Challenge.csproj", "{62E07896-F4F8-4EAD-8B47-984B9FA075A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResDiary Coding Challenge Tests", "ResDiary Coding Challenge Tests\ResDiary Coding Challenge Tests.csproj", "{973ECE4F-C34E-48D2-B633-68DA1B91C69E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{62E07896-F4F8-4EAD-8B47-984B9FA075A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62E07896-F4F8-4EAD-8B47-984B9FA075A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62E07896-F4F8-4EAD-8B47-984B9FA075A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973ECE4F-C34E-48D2-B633-68DA1B91C69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973ECE4F-C34E-48D2-B633-68DA1B91C69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973ECE4F-C34E-48D2-B633-68DA1B91C69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973ECE4F-C34E-48D2-B633-68DA1B91C69E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
